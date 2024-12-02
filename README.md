@@ -23,3 +23,14 @@ Tech Stack</h3>
 </div>
 
 
+<br />
+
+<a href="https://github.com/devxb/gitanimals">
+<img
+  src="https://render.gitanimals.org/farms/jiminnimij"
+  width="600"
+  height="300"
+/>
+</a>
+
+
