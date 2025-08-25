@@ -35,4 +35,5 @@ Tech Stack</h3>
 </a>
   
 ![Jimin's GitHub stats](https://github-readme-stats.vercel.app/api?username=jiminnimij)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=jiminnimij&layout=compact&theme=buefy)
 
