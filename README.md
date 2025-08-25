@@ -25,16 +25,14 @@ Tech Stack</h3>
 
 <br />
 
-<a href="https://github.com/devxb/gitanimals">
 
 <a href="https://www.gitanimals.org/en_US?utm_medium=image&utm_source=jiminnimij&utm_content=line">
   <img
-    src="https://render.gitanimals.org/lines/jiminnimij?pet-id=651356213193465404"
-    width="200"
-    height="200"
+    src="https://render.gitanimals.org/lines/jiminnimij?pet-id=707051722154619649"
+    width="300"
+    height="120"
   />
 </a>
   
-</a>
 
 
