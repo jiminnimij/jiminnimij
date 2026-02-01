@@ -26,13 +26,12 @@ Tech Stack</h3>
 <br />
 
 
-<a href="https://www.gitanimals.org/en_US?utm_medium=image&utm_source=jiminnimij&utm_content=line">
-  <img
-    src="https://render.gitanimals.org/lines/jiminnimij?pet-id=707051722154619649"
-    width="300"
-    height="120"
-  />
+<a href="https://www.gitanimals.org/en_US?utm_medium=image&utm_source=jiminnimij&utm_content=farm">
+<img
+  src="https://render.gitanimals.org/farms/jiminnimij"
+  width="600"
+  height="300"
+/>
 </a>
-  
-[![jimin's GitHub stats](https://github-readme-stats.vercel.app/api?username=jiminnimij)](https://github.com/jiminnimij/github-readme-stats)
+
 
